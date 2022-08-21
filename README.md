@@ -3,6 +3,8 @@
 In this application, we have used the React JS and the Advance concepts of the React JS to make a Management system with the admin and the user dashboards and with the beautiful UI/UX designs. We have used the AntDesign for this application.
 I have build this application from scratch for the learning purpose. All the design of UI and UX are designed with the projects implementations.
 
+Link to deployed project: https://mms-bitycodz.netlify.app/
+
 # Login/ Signup
 ![image](https://user-images.githubusercontent.com/71972221/178041053-b50b4821-003b-4deb-af62-be52f60bab6e.png)
 
